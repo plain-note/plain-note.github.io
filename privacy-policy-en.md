@@ -8,4 +8,4 @@ But... The App __MAY__ indirectly collect and transmit app-specific crash data (
 
 This policy is subject to change without notice. If you disagree with this policy, please discontinue use of the App.
 
-Please check this page for the latest privacy policy.
+Please check this page for the latest privacy policy. 
