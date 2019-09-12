@@ -1,6 +1,6 @@
 # Privacy Policy
 
-The software application **PlainNote** (“App”) is a simple plain text editor with no purpose other than creating and editing app-related plain text files.
+The software application **PlainNote** (“App”) is a simple plain text editor with no purpose other than creating and editing plain text files.
 
 The App __DOES NOT__ collect or transmit any kind of information about its users or the content they create or edit throught the App. The App __HAS NO__ facility to access the Internet.
 
